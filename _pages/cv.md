@@ -21,8 +21,8 @@ Interests
 * Developmental Biology
 * Neuroscience
 * Bioinformatics
-* Statistical Modeling
-* Technology development
+* Statistical Modeling 
+* Single-cell sequencing technology
 * Python and R programming
 
 Student projects
