@@ -11,35 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Stockholm University. 2024 - now 
+* MSc in Molecular Techniques in Life Science. Karolinska Institutet, KTH Royal Institute of Technology, Stockholm University, 2022 - 2024
+* BSc in Marine Biotechnology. Xiamen University, 2018 - 2022
 
-Work experience
+Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Epigenetics
+* Developmental Biology
+* Neuroscience
+* Bioinformatics
+* Statistical Modeling
+* Technology development
+* Python and R programming
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Student projects
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Integrated analysis of single cell epigenomics in human fetal cerebral cortical development
+  * 2023-2024: Stockholm University, Department of Biochemistry and Biophysics 
+  * Languages: Python and R
+  * Supervisor: Marek Bartosovic
+
+* Transcriptomic profiling (RNA-seq) of Amphidinium carterae to reveal metabolic mechanism of diatom bloom sourced dissolved organic matters utilization
+  * 2022: Xiamen University, Xin Lin group
+  * Supervisor: Hongwei Wang
 
 Publications
 ======
@@ -59,6 +54,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
