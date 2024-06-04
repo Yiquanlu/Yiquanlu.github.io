@@ -17,7 +17,7 @@ At the moment I am a PhD student in the lab of <u><a href='https://www.bartosovi
 
 Research focus
 ======
-My primary project is Chromatin Analysis and Modeling of Chromatin Regulation During Early Human Brain Development, we rely on <u><a href='https://www.nature.com/articles/s41587-022-01535-4'>nanoCUT&Tag</a></u> technique that developed by our lab to profile human developing brain from first trimester fetal stage, analyzing histone modifications dynamics during first trimester developmental stage and modeling the gene regulatory network.
+My primary project is Chromatin Analysis and Modeling of Chromatin Regulation During Early Human Brain Development. We rely on <u><a href='https://www.nature.com/articles/s41587-022-01535-4'>nanoCUT&Tag</a></u> technique that developed by our lab to profile human developing brain from first trimester fetal stage, then analyzing histone modifications dynamics and modeling the gene regulatory network in first trimester fetal brain development.
 
 Research experience
 ======
