@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Stockholm University. 2024 - now 
-* MSc in Molecular Techniques in Life Science. Karolinska Institutet, KTH Royal Institute of Technology, Stockholm University, 2022 - 2024
-* BSc in Marine Biotechnology. Xiamen University, 2018 - 2022
+* Ph.D in Neurochemistry with Molecular Biology. Stockholm University. August 2024 - now 
+* MSc in Molecular Techniques in Life Science. Karolinska Institutet, KTH Royal Institute of Technology, Stockholm University, August 2022 - June 2024
+* BSc in Marine Biotechnology. Xiamen University, September 2018 - July 2022
 
 Interests
 ======
@@ -21,7 +21,7 @@ Interests
 * Developmental Biology
 * Neuroscience
 * Bioinformatics
-* Statistical Modeling 
+* Machine Learning 
 * Single-cell sequencing technology
 * Python and R programming
 
