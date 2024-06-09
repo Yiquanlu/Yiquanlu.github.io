@@ -10,7 +10,7 @@ redirect_from:
 
 Hello there! 
 
-My name is Yiquan Lu, I' am originally from China. I have been fascinated by (epi-) genetics ever since I learned about what that term mean. Add to that a love for the human brain, data and maps and it seems inevitable I would at some point want to work in the single cell field.
+My name is Yiquan Lu, I' am originally from China. 
 
 
 At the moment I am a PhD student in the lab of <u><a href='https://www.bartosovic-lab.com/'>Marek Bartosovic</a></u> at Stcokholm University in Sweden. Before this I completed my Bachelor's education (BSc in Marine Biotechnology) at Xiamen University in 2022 and  Master's education  (MSc in <u><a href='https://www.kth.se/en/studies/master/molecular-techniques-life-science/msc-molecular-techniques-in-life-science-1.501282'>Molecular Techniques in Life Science</a></u>) at Karolinska Institutet, KTH Royal Institute of Technology and Stockholm University in 2024.
